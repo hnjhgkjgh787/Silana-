@@ -1,2 +1,0 @@
-# Silana-
-Silana bot
